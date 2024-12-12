@@ -4,16 +4,16 @@
 <p align="center">
   
 
-
-<!--<p align="center">
-  <a href="https://github.com/EastbeanZhang">Dongbin Zhang*</a>, 
-  <a href="javascript:void(0)">Chuming Wang*</a>,
-  <a href="javascript:void(0)">Weitao Wang</a>, 
-  <a href="https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ">Peihao Li</a>, 
+<p align="center">
+  <a href="https://github.com/chenkangjie1123">Kangjie Chen*</a>, 
+  <a href="javascript:void(0)">Bingquan Dai*</a>,
   <a href="https://github.com/minghanqin">Minghan Qin</a>, 
+  <a href="https://github.com/EastbeanZhang">Dongbin Zhang</a>, 
+  <a href="https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ">Peihao Li</a>, 
+  <a href="javascript:void(0)">Yingshuang Zou</a>,
   <a href="https://www.sigs.tsinghua.edu.cn/whq_en/main.htm">Haoqian Wang†</a>
   <br>(* indicates equal contribution, † means corresponding author)<br>
-</p>-->
+</p>
 
 <p align="center">
   <a href="https://chenkangjie1123.github.io/SLGaussian.github.io/">Webpage</a> | 

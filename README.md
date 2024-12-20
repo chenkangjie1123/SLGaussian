@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/chenkangjie1123">Kangjie Chen*</a>, 
-  <a href="javascript:void(0)">Bingquan Dai*</a>,
+  <a href="https://github.com/DaiBingquan">Bingquan Dai*</a>,
   <a href="https://scholar.google.com/citations?&user=ngEXyLkAAAAJ">Minghan Qin</a>, 
   <a href="https://github.com/EastbeanZhang">Dongbin Zhang</a>, 
   <a href="https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ">Peihao Li</a>, 

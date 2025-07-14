@@ -29,9 +29,9 @@ With just two RGB views, our method infers 3D semantic fields in under 30 second
 
 ```
 @article{chen2024slgaussian,
-  title={SLGaussian: Fast Language Gaussian Splatting in Sparse Views},
+  title={Slgaussian: Fast language gaussian splatting in sparse views},
   author={Chen, Kangjie and Dai, BingQuan and Qin, Minghan and Zhang, Dongbin and Li, Peihao and Zou, Yingshuang and Wang, Haoqian},
   journal={arXiv preprint arXiv:2412.08331},
-  year={2024},
+  year={2024}
 }
 ```
